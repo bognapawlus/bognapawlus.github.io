@@ -1,35 +1,455 @@
-1		Chihuahua		1-3		14-18		17-25		12-15		Toy		
-2		Yorkshire Terrier		2-3		12-16		18-25		12-15		Toy		
-3		Pomeranian		1.5-3		12-16		20-30		16-19		Toy		
-4		Papillon		2.5-5		12-16		20-30		17-20		Toy		
-5		Affenpinscher		3-6		12-14		22-30		20-23		Toy		
-6		Shih Tzu		4-7		10-16		25-35		18-22		Toy		
-7		Pekingese		3-6		12-14		25-35		18-22		Toy		
-8		American Eskimo		9-16		12-15		35-45		19-22		Toy		
-9		Italian Greyhound		3-5		12-15		25-35		17-20		Toy		
-10		Toy Poodle		2-4		12-14		28-38		16-19		Toy		
-11		Miniature Pinscher		3-5		12-14		20-30		17-20		Toy		
-12		Brussels Griffon		2.5-5		12-15		25-35		18-21		Toy		
-13		Maltese		1.5-3		12-15		20-30		18-21		Toy		
-14		Bichon Frise		5-8		14-15		28-38		20-23		Toy		
-15		Shetland Sheepdog		6-12		12-14		35-45		22-25		Small		
-16		Dachshund (Miniature)		4-5		12-16		30-40		15-20		Small		
-17		Cavalier King Charles Spaniel		5-8		10-14		30-40		20-23		Small		
-18		French Bulldog		7-13		10-12		35-45		20-24		Small		
-19		Beagle		8-14		12-15		35-45		20-23		Small/Medium		
-20		Cocker Spaniel		9-14		12-15		40-50		23-25		Medium		
-21		English Springer Spaniel		20-25		10-14		45-55		24-28		Medium		
-22		Border Terrier		5-6		12-15		35-45		22-25		Medium		
-23		Whippet		10-14		12-15		35-45		23-28		Medium		
-24		Border Collie		14-20		12-15		40-50		24-26		Medium		
-25		Australian Cattle Dog		16-23		12-15		40-50		24-28		Medium		
-26		Boxer		23-36		9-12		45-55		28-30		Medium/Large		
-27		Dalmatian		20-30		10-12		45-55		24-26		Large		
-28		Siberian Husky		20-28		12-14		45-55		23-26		Large		
-29		Golden Retriever		25-35		10-12		50-60		25-30		Large		
-30		Labrador Retriever		25-36		10-12		50-60		25-36		Large		
-31		German Shepherd		34-43		10-13		50-60		28-34		Large		
-32		Rottweiler		50-60		8-10		50-60		30-35		Large		
-33		Great Dane		54-90		6-8		60-70		32-40		Giant		
-34		Mastiff		68-110		6-10		60-70		34-44		Giant		
-35		Saint Bernard		64-120		8-10		60-70		32-38		Giant		
+# _List of the most popular dogs breeds:_### Serial No.. Breed
+
+**Average Weight (kg):** 1-3
+
+**Age Range (years):** 14-18
+
+**Average Neck Size (cm):** 17-25
+
+**Average Chest Size (inches):** 12-15
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 2-3
+
+**Age Range (years):** 12-16
+
+**Average Neck Size (cm):** 18-25
+
+**Average Chest Size (inches):** 12-15
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 1.5-3
+
+**Age Range (years):** 12-16
+
+**Average Neck Size (cm):** 20-30
+
+**Average Chest Size (inches):** 16-19
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 2.5-5
+
+**Age Range (years):** 12-16
+
+**Average Neck Size (cm):** 20-30
+
+**Average Chest Size (inches):** 17-20
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 3-6
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 22-30
+
+**Average Chest Size (inches):** 20-23
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 4-7
+
+**Age Range (years):** 10-16
+
+**Average Neck Size (cm):** 25-35
+
+**Average Chest Size (inches):** 18-22
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 3-6
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 25-35
+
+**Average Chest Size (inches):** 18-22
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 9-16
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 19-22
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 3-5
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 25-35
+
+**Average Chest Size (inches):** 17-20
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 2-4
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 28-38
+
+**Average Chest Size (inches):** 16-19
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 3-5
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 20-30
+
+**Average Chest Size (inches):** 17-20
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 2.5-5
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 25-35
+
+**Average Chest Size (inches):** 18-21
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 1.5-3
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 20-30
+
+**Average Chest Size (inches):** 18-21
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 5-8
+
+**Age Range (years):** 14-15
+
+**Average Neck Size (cm):** 28-38
+
+**Average Chest Size (inches):** 20-23
+
+**Size Classification:** Toy
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 6-12
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 22-25
+
+**Size Classification:** Small
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 4-5
+
+**Age Range (years):** 12-16
+
+**Average Neck Size (cm):** 30-40
+
+**Average Chest Size (inches):** 15-20
+
+**Size Classification:** Small
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 5-8
+
+**Age Range (years):** 10-14
+
+**Average Neck Size (cm):** 30-40
+
+**Average Chest Size (inches):** 20-23
+
+**Size Classification:** Small
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 7-13
+
+**Age Range (years):** 10-12
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 20-24
+
+**Size Classification:** Small
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 8-14
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 20-23
+
+**Size Classification:** Small/Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 9-14
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 40-50
+
+**Average Chest Size (inches):** 23-25
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 20-25
+
+**Age Range (years):** 10-14
+
+**Average Neck Size (cm):** 45-55
+
+**Average Chest Size (inches):** 24-28
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 5-6
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 22-25
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 10-14
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 35-45
+
+**Average Chest Size (inches):** 23-28
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 14-20
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 40-50
+
+**Average Chest Size (inches):** 24-26
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 16-23
+
+**Age Range (years):** 12-15
+
+**Average Neck Size (cm):** 40-50
+
+**Average Chest Size (inches):** 24-28
+
+**Size Classification:** Medium
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 23-36
+
+**Age Range (years):** 9-12
+
+**Average Neck Size (cm):** 45-55
+
+**Average Chest Size (inches):** 28-30
+
+**Size Classification:** Medium/Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 20-30
+
+**Age Range (years):** 10-12
+
+**Average Neck Size (cm):** 45-55
+
+**Average Chest Size (inches):** 24-26
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 20-28
+
+**Age Range (years):** 12-14
+
+**Average Neck Size (cm):** 45-55
+
+**Average Chest Size (inches):** 23-26
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 25-35
+
+**Age Range (years):** 10-12
+
+**Average Neck Size (cm):** 50-60
+
+**Average Chest Size (inches):** 25-30
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 25-36
+
+**Age Range (years):** 10-12
+
+**Average Neck Size (cm):** 50-60
+
+**Average Chest Size (inches):** 25-36
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 34-43
+
+**Age Range (years):** 10-13
+
+**Average Neck Size (cm):** 50-60
+
+**Average Chest Size (inches):** 28-34
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 50-60
+
+**Age Range (years):** 8-10
+
+**Average Neck Size (cm):** 50-60
+
+**Average Chest Size (inches):** 30-35
+
+**Size Classification:** Large
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 54-90
+
+**Age Range (years):** 6-8
+
+**Average Neck Size (cm):** 60-70
+
+**Average Chest Size (inches):** 32-40
+
+**Size Classification:** Giant
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 68-110
+
+**Age Range (years):** 6-10
+
+**Average Neck Size (cm):** 60-70
+
+**Average Chest Size (inches):** 34-44
+
+**Size Classification:** Giant
+
+
+### Serial No.. Breed
+
+**Average Weight (kg):** 64-120
+
+**Age Range (years):** 8-10
+
+**Average Neck Size (cm):** 60-70
+
+**Average Chest Size (inches):** 32-38
+
+**Size Classification:** Giant
+
+
