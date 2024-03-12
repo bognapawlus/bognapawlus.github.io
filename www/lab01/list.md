@@ -1,4 +1,6 @@
-# _List of the most popular dogs breeds:_### Serial No.. Breed
+# _List of the most popular dogs breeds:_
+
+### 1. Chihuahua
 
 **Average Weight (kg):** 1-3
 
@@ -11,7 +13,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 2. Yorkshire Terrier
 
 **Average Weight (kg):** 2-3
 
@@ -24,7 +26,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 3. Pomeranian
 
 **Average Weight (kg):** 1.5-3
 
@@ -37,7 +39,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 4. Papillon
 
 **Average Weight (kg):** 2.5-5
 
@@ -50,7 +52,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 5. Affenpinscher
 
 **Average Weight (kg):** 3-6
 
@@ -63,7 +65,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 6. Shih Tzu
 
 **Average Weight (kg):** 4-7
 
@@ -76,7 +78,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 7. Pekingese
 
 **Average Weight (kg):** 3-6
 
@@ -89,7 +91,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 8. American Eskimo
 
 **Average Weight (kg):** 9-16
 
@@ -102,7 +104,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 9. Italian Greyhound
 
 **Average Weight (kg):** 3-5
 
@@ -115,7 +117,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 10. Toy Poodle
 
 **Average Weight (kg):** 2-4
 
@@ -128,7 +130,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 11. Miniature Pinscher
 
 **Average Weight (kg):** 3-5
 
@@ -141,7 +143,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 12. Brussels Griffon
 
 **Average Weight (kg):** 2.5-5
 
@@ -154,7 +156,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 13. Maltese
 
 **Average Weight (kg):** 1.5-3
 
@@ -167,7 +169,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 14. Bichon Frise
 
 **Average Weight (kg):** 5-8
 
@@ -180,7 +182,7 @@
 **Size Classification:** Toy
 
 
-### Serial No.. Breed
+### 15. Shetland Sheepdog
 
 **Average Weight (kg):** 6-12
 
@@ -193,7 +195,7 @@
 **Size Classification:** Small
 
 
-### Serial No.. Breed
+### 16. Dachshund (Miniature)
 
 **Average Weight (kg):** 4-5
 
@@ -206,7 +208,7 @@
 **Size Classification:** Small
 
 
-### Serial No.. Breed
+### 17. Cavalier King Charles Spaniel
 
 **Average Weight (kg):** 5-8
 
@@ -219,7 +221,7 @@
 **Size Classification:** Small
 
 
-### Serial No.. Breed
+### 18. French Bulldog
 
 **Average Weight (kg):** 7-13
 
@@ -232,7 +234,7 @@
 **Size Classification:** Small
 
 
-### Serial No.. Breed
+### 19. Beagle
 
 **Average Weight (kg):** 8-14
 
@@ -245,7 +247,7 @@
 **Size Classification:** Small/Medium
 
 
-### Serial No.. Breed
+### 20. Cocker Spaniel
 
 **Average Weight (kg):** 9-14
 
@@ -258,7 +260,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 21. English Springer Spaniel
 
 **Average Weight (kg):** 20-25
 
@@ -271,7 +273,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 22. Border Terrier
 
 **Average Weight (kg):** 5-6
 
@@ -284,7 +286,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 23. Whippet
 
 **Average Weight (kg):** 10-14
 
@@ -297,7 +299,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 24. Border Collie
 
 **Average Weight (kg):** 14-20
 
@@ -310,7 +312,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 25. Australian Cattle Dog
 
 **Average Weight (kg):** 16-23
 
@@ -323,7 +325,7 @@
 **Size Classification:** Medium
 
 
-### Serial No.. Breed
+### 26. Boxer
 
 **Average Weight (kg):** 23-36
 
@@ -336,7 +338,7 @@
 **Size Classification:** Medium/Large
 
 
-### Serial No.. Breed
+### 27. Dalmatian
 
 **Average Weight (kg):** 20-30
 
@@ -349,7 +351,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 28. Siberian Husky
 
 **Average Weight (kg):** 20-28
 
@@ -362,7 +364,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 29. Golden Retriever
 
 **Average Weight (kg):** 25-35
 
@@ -375,7 +377,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 30. Labrador Retriever
 
 **Average Weight (kg):** 25-36
 
@@ -388,7 +390,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 31. German Shepherd
 
 **Average Weight (kg):** 34-43
 
@@ -401,7 +403,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 32. Rottweiler
 
 **Average Weight (kg):** 50-60
 
@@ -414,7 +416,7 @@
 **Size Classification:** Large
 
 
-### Serial No.. Breed
+### 33. Great Dane
 
 **Average Weight (kg):** 54-90
 
@@ -427,7 +429,7 @@
 **Size Classification:** Giant
 
 
-### Serial No.. Breed
+### 34. Mastiff
 
 **Average Weight (kg):** 68-110
 
@@ -440,7 +442,7 @@
 **Size Classification:** Giant
 
 
-### Serial No.. Breed
+### 35. Saint Bernard
 
 **Average Weight (kg):** 64-120
 
