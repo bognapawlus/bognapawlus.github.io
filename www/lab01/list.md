@@ -13,6 +13,10 @@
 **Size Classification:** Toy
 
 
+[More information about Chihuahua](dogs-informations/Chihuahua.md)
+
+
+
 ### 2. Yorkshire Terrier
 
 **Average Weight (kg):** 2-3
@@ -24,6 +28,10 @@
 **Average Chest Size (inches):** 12-15
 
 **Size Classification:** Toy
+
+
+[More information about Yorkshire Terrier](dogs-informations/Yorkshire_Terrier.md)
+
 
 
 ### 3. Pomeranian
@@ -39,6 +47,10 @@
 **Size Classification:** Toy
 
 
+[More information about Pomeranian](dogs-informations/Pomeranian.md)
+
+
+
 ### 4. Papillon
 
 **Average Weight (kg):** 2.5-5
@@ -50,6 +62,10 @@
 **Average Chest Size (inches):** 17-20
 
 **Size Classification:** Toy
+
+
+[More information about Papillon](dogs-informations/Papillon.md)
+
 
 
 ### 5. Affenpinscher
@@ -65,6 +81,10 @@
 **Size Classification:** Toy
 
 
+[More information about Affenpinscher](dogs-informations/Affenpinscher.md)
+
+
+
 ### 6. Shih Tzu
 
 **Average Weight (kg):** 4-7
@@ -76,6 +96,10 @@
 **Average Chest Size (inches):** 18-22
 
 **Size Classification:** Toy
+
+
+[More information about Shih Tzu](dogs-informations/Shih_Tzu.md)
+
 
 
 ### 7. Pekingese
@@ -91,6 +115,10 @@
 **Size Classification:** Toy
 
 
+[More information about Pekingese](dogs-informations/Pekingese.md)
+
+
+
 ### 8. American Eskimo
 
 **Average Weight (kg):** 9-16
@@ -102,6 +130,10 @@
 **Average Chest Size (inches):** 19-22
 
 **Size Classification:** Toy
+
+
+[More information about American Eskimo](dogs-informations/American_Eskimo.md)
+
 
 
 ### 9. Italian Greyhound
@@ -117,6 +149,10 @@
 **Size Classification:** Toy
 
 
+[More information about Italian Greyhound](dogs-informations/Italian_Greyhound.md)
+
+
+
 ### 10. Toy Poodle
 
 **Average Weight (kg):** 2-4
@@ -128,6 +164,10 @@
 **Average Chest Size (inches):** 16-19
 
 **Size Classification:** Toy
+
+
+[More information about Toy Poodle](dogs-informations/Toy_Poodle.md)
+
 
 
 ### 11. Miniature Pinscher
@@ -143,6 +183,10 @@
 **Size Classification:** Toy
 
 
+[More information about Miniature Pinscher](dogs-informations/Miniature_Pinscher.md)
+
+
+
 ### 12. Brussels Griffon
 
 **Average Weight (kg):** 2.5-5
@@ -154,6 +198,10 @@
 **Average Chest Size (inches):** 18-21
 
 **Size Classification:** Toy
+
+
+[More information about Brussels Griffon](dogs-informations/Brussels_Griffon.md)
+
 
 
 ### 13. Maltese
@@ -169,6 +217,10 @@
 **Size Classification:** Toy
 
 
+[More information about Maltese](dogs-informations/Maltese.md)
+
+
+
 ### 14. Bichon Frise
 
 **Average Weight (kg):** 5-8
@@ -180,6 +232,10 @@
 **Average Chest Size (inches):** 20-23
 
 **Size Classification:** Toy
+
+
+[More information about Bichon Frise](dogs-informations/Bichon_Frise.md)
+
 
 
 ### 15. Shetland Sheepdog
@@ -195,6 +251,10 @@
 **Size Classification:** Small
 
 
+[More information about Shetland Sheepdog](dogs-informations/Shetland_Sheepdog.md)
+
+
+
 ### 16. Dachshund (Miniature)
 
 **Average Weight (kg):** 4-5
@@ -206,6 +266,10 @@
 **Average Chest Size (inches):** 15-20
 
 **Size Classification:** Small
+
+
+[More information about Dachshund (Miniature)](dogs-informations/Dachshund_(Miniature).md)
+
 
 
 ### 17. Cavalier King Charles Spaniel
@@ -221,6 +285,10 @@
 **Size Classification:** Small
 
 
+[More information about Cavalier King Charles Spaniel](dogs-informations/Cavalier_King_Charles_Spaniel.md)
+
+
+
 ### 18. French Bulldog
 
 **Average Weight (kg):** 7-13
@@ -232,6 +300,10 @@
 **Average Chest Size (inches):** 20-24
 
 **Size Classification:** Small
+
+
+[More information about French Bulldog](dogs-informations/French_Bulldog.md)
+
 
 
 ### 19. Beagle
@@ -247,6 +319,10 @@
 **Size Classification:** Small/Medium
 
 
+[More information about Beagle](dogs-informations/Beagle.md)
+
+
+
 ### 20. Cocker Spaniel
 
 **Average Weight (kg):** 9-14
@@ -258,6 +334,10 @@
 **Average Chest Size (inches):** 23-25
 
 **Size Classification:** Medium
+
+
+[More information about Cocker Spaniel](dogs-informations/Cocker_Spaniel.md)
+
 
 
 ### 21. English Springer Spaniel
@@ -273,6 +353,10 @@
 **Size Classification:** Medium
 
 
+[More information about English Springer Spaniel](dogs-informations/English_Springer_Spaniel.md)
+
+
+
 ### 22. Border Terrier
 
 **Average Weight (kg):** 5-6
@@ -284,6 +368,10 @@
 **Average Chest Size (inches):** 22-25
 
 **Size Classification:** Medium
+
+
+[More information about Border Terrier](dogs-informations/Border_Terrier.md)
+
 
 
 ### 23. Whippet
@@ -299,6 +387,10 @@
 **Size Classification:** Medium
 
 
+[More information about Whippet](dogs-informations/Whippet.md)
+
+
+
 ### 24. Border Collie
 
 **Average Weight (kg):** 14-20
@@ -310,6 +402,10 @@
 **Average Chest Size (inches):** 24-26
 
 **Size Classification:** Medium
+
+
+[More information about Border Collie](dogs-informations/Border_Collie.md)
+
 
 
 ### 25. Australian Cattle Dog
@@ -325,6 +421,10 @@
 **Size Classification:** Medium
 
 
+[More information about Australian Cattle Dog](dogs-informations/Australian_Cattle_Dog.md)
+
+
+
 ### 26. Boxer
 
 **Average Weight (kg):** 23-36
@@ -336,6 +436,10 @@
 **Average Chest Size (inches):** 28-30
 
 **Size Classification:** Medium/Large
+
+
+[More information about Boxer](dogs-informations/Boxer.md)
+
 
 
 ### 27. Dalmatian
@@ -351,6 +455,10 @@
 **Size Classification:** Large
 
 
+[More information about Dalmatian](dogs-informations/Dalmatian.md)
+
+
+
 ### 28. Siberian Husky
 
 **Average Weight (kg):** 20-28
@@ -362,6 +470,10 @@
 **Average Chest Size (inches):** 23-26
 
 **Size Classification:** Large
+
+
+[More information about Siberian Husky](dogs-informations/Siberian_Husky.md)
+
 
 
 ### 29. Golden Retriever
@@ -377,6 +489,10 @@
 **Size Classification:** Large
 
 
+[More information about Golden Retriever](dogs-informations/Golden_Retriever.md)
+
+
+
 ### 30. Labrador Retriever
 
 **Average Weight (kg):** 25-36
@@ -388,6 +504,10 @@
 **Average Chest Size (inches):** 25-36
 
 **Size Classification:** Large
+
+
+[More information about Labrador Retriever](dogs-informations/Labrador_Retriever.md)
+
 
 
 ### 31. German Shepherd
@@ -403,6 +523,10 @@
 **Size Classification:** Large
 
 
+[More information about German Shepherd](dogs-informations/German_Shepherd.md)
+
+
+
 ### 32. Rottweiler
 
 **Average Weight (kg):** 50-60
@@ -414,6 +538,10 @@
 **Average Chest Size (inches):** 30-35
 
 **Size Classification:** Large
+
+
+[More information about Rottweiler](dogs-informations/Rottweiler.md)
+
 
 
 ### 33. Great Dane
@@ -429,6 +557,10 @@
 **Size Classification:** Giant
 
 
+[More information about Great Dane](dogs-informations/Great_Dane.md)
+
+
+
 ### 34. Mastiff
 
 **Average Weight (kg):** 68-110
@@ -442,6 +574,10 @@
 **Size Classification:** Giant
 
 
+[More information about Mastiff](dogs-informations/Mastiff.md)
+
+
+
 ### 35. Saint Bernard
 
 **Average Weight (kg):** 64-120
@@ -453,5 +589,9 @@
 **Average Chest Size (inches):** 32-38
 
 **Size Classification:** Giant
+
+
+[More information about Saint Bernard](dogs-informations/Saint_Bernard.md)
+
 
 
