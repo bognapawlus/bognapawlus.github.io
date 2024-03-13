@@ -1,1 +1,193 @@
-hello world
+<html>
+<head>
+<style>
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Grey;
+  color: white;
+}
+header {
+  text-align: center;
+  background-color: Green;
+  color: white;
+}
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+li {
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+label,
+input {
+  display: table-cell;
+  margin-bottom: 10px;
+}
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+details[open] {
+  padding: 0.5em;
+}
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+</style>
+</head>
+<body>
+
+  <article>
+    <header>
+      <h1>Site about dogs</h1>
+      <p>Lots information about dogs</p>
+    </header>
+    
+    <h1> Dog</h1>
+    
+    <h2> Generel informations: </h2>
+    <p> The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the <strong>wolf</strong>. Also called the domestic dog, it is derived from extinct gray wolves,[6][7] and the gray wolf is the dog's closest living relative.[8] The dog was the first species to be domesticated[9][8] <em>by humans</em>. Experts estimate that hunter-gatherers domesticated dogs more than 15,000 years ago in Oberkassel, Bonn,[7] which was before the development of agriculture.[1] Due to their long association with humans, dogs have expanded to a large number of domestic individuals[10] and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.[11]
+    </p>
+    
+    <h2> Domestication </h2>
+    <p> The earliest remains generally accepted to be those of a domesticated dog <em>were discovered in Bonn-Oberkassel, Germany</em>. Contextual, isotopic, genetic, and morphological evidence shows that this dog was not a local wolf.[20] The dog was dated to 14,223 years ago and was found buried along with a man and a woman, all three having been sprayed with red hematite powder and buried under large, thick basalt blocks. The dog had died of canine distemper.[21] Earlier remains dating back to 30,000 years ago have been described as <strong>Paleolithic dogs</strong>, but their status as dogs or wolves remains debated[22] because considerable morphological diversity existed among wolves during the Late Pleistocene.[1]
+    </p>
+    
+    
+    <h2> 2. table </h2>
+    
+    <table>
+  <caption>
+    Table with dogs
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Breed</th>
+      <th scope="col">Weight</th>
+      <th scope="col">Color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">German shepherd</th>
+      <td>40</td>
+      <td>Brown</td>
+    </tr>
+    <tr>
+      <th scope="row">Golder retriver</th>
+      <td>28</td>
+      <td>Yellow</td>
+    </tr>
+    <tr>
+      <th scope="row">York</th>
+      <td>10</td>
+      <td>White</td>
+    </tr>
+    <tr>
+      <th scope="row">Samoyed</th>
+      <td>28</td>
+      <td>White</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row" colspan="1">Average weight</th>
+      <td>32</td>
+    </tr>
+  </tfoot>
+</table>
+
+    <h2> 3. List </h2>
+    
+    <ol type="I">
+      <li value="1">Dog1</li>
+      <li>Dog2</li>
+      <li>Dog3</li>
+    </ol>
+    
+    <h2> 5. picture </h2>
+    <img
+    class="fit-picture"
+    src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+    alt="Grapefruit slice atop a pile of other slices" />
+    
+    <h2> 6. Form </h2>
+    <form method="post">
+      <label>
+        Name:
+        <input name="submitted-name" autocomplete="name" />
+      </label>
+      
+      <legend>Do you agree to the terms?</legend>
+      <label><input type="radio" name="radio" value="yes" /> Yes</label>
+      <label><input type="radio" name="radio" value="no" /> No</label>
+      
+      <select name="pets" id="pet-select">
+        <option value="">--Please choose an option--</option>
+        <option value="dog">Dog</option>
+        <option value="cat">Cat</option>
+        <option value="hamster">Hamster</option>
+        <option value="parrot">Parrot</option>
+        <option value="spider">Spider</option>
+        <option value="goldfish">Goldfish</option>
+      </select>
+      <button>Save</button>
+    </form>
+    
+    <h2> 7. </h2>
+    <details>
+      <summary>More info</summary>
+      Info about dogs
+    </details>
+
+    <h2> 8. </h2>
+      <label>
+        Uploading Document: <progress value="70" max="100">70 %</progress>
+      </label>
+    
+    <h2> 9. </h2>
+    
+      <map name="infographic">
+        <area
+          shape="poly"
+          coords="130,147,200,107,254,219,130,228"
+          href="https://developer.mozilla.org/docs/Web/HTML"
+          target="_blank"
+          alt="HTML" />
+        <area
+          shape="poly"
+          coords="130,147,130,228,6,219,59,107"
+          href="https://developer.mozilla.org/docs/Web/CSS"
+          target="_blank"
+          alt="CSS" />
+        <area
+          shape="poly"
+          coords="130,147,200,107,130,4,59,107"
+          href="https://developer.mozilla.org/docs/Web/JavaScript"
+          target="_blank"
+          alt="JavaScript" />
+      </map>
+      <img usemap="#infographic" src="/media/examples/mdn-info2.png" alt="MDN infographic" />
+
+
+    <footer>
+      <p>Author: Bogna Pawlus<br>
+      <a href="mailto:bogna.pawlus@gmail.com">bogna.pawlus@gmail.com</a></p>
+    </footer>
+  </article>
+
+</body>
+</html>
