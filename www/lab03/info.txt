@@ -1,0 +1,26 @@
+#npm
+https://monovm.com/blog/install-npm-on-ubuntu/#Install-npm-on-Ubuntu-22.04-and-20.04
+sudo apt update
+sudo apt install nodejs npm
+ node --version
+npm --version
+
+#npx
+https://linuxtldr.com/npx-package-runner/
+sudo snap install curl
+curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install nodejs -y ###nie dziala??
+sudo apt install npm
+
+
+
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+
+
+##install tailwind css intelliSence w vsc
+
+--watch na koncu dac
