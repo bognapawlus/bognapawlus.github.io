@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./output.css" rel="stylesheet">
+</head>
+  <body class="bg-green2">
+    <header class="bg-green1">
+      <h1 class="text-mycoloryellow">Site about dogs</h1>
+      <p>Lots information about dogs</p>
+    </header>
+    
+    <div class="container mx-auto">
+      <article>
+      <br>
+      
+      <div class="flex flex-col lg:flex-row">
+        <div>
+          <h2> Generel informations: </h2><br>
+          <p class="text-mycolorpurple"> The <a href="https://www.dog.com/">dog</a> (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the <strong>wolf</strong>. Also called the domestic dog, it is derived from extinct gray wolves,[6][7] and the gray wolf is the dog's closest living relative.[8] The dog was the first species to be domesticated[9][8] <em>by humans</em>. Experts estimate that hunter-gatherers domesticated dogs more than 15,000 years ago in Oberkassel, Bonn,[7] which was before the development of agriculture.[1] Due to their long association with <a href="humans">humans</a>, dogs have expanded to a large number of domestic individuals[10] and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.[11]
+          </p><br>
+        </div>
+        <div>
+          <h2> Domestication </h2><br>
+          <p class="text-mycolororange"> The earliest remains generally accepted to be those of a domesticated dog <em>were discovered in Bonn-Oberkassel, Germany</em>. Contextual, isotopic, genetic, and morphological evidence shows that this dog was not a local wolf.[20] The dog was dated to 14,223 years ago and was found buried along with a man and a woman, all three having been sprayed with red hematite powder and buried under large, thick basalt blocks. The <a href="https://www.dog.com/">dog</a> had died of canine distemper.[21] Earlier remains dating back to 30,000 years ago have been described as <strong>Paleolithic dogs</strong>, but their status as dogs or wolves remains debated[22] because considerable morphological diversity existed among wolves during the Late Pleistocene.[1]
+          </p><br>
+        </div>
+      </div>
+      <br>
+
+      <h2> Health </h2>
+      <p class="text-red1"> Some breeds of dogs are prone to specific genetic ailments such as elbow and hip dysplasia, blindness, deafness, pulmonic stenosis, a cleft palate, and trick knees. Two severe medical conditions significantly affecting dogs are pyometra, affecting unspayed females of all breeds and ages, and gastric dilatation volvulus (bloat), which affects larger breeds or deep-chested dogs. Both of these are acute conditions and can kill rapidly. Dogs are also susceptible to parasites such as fleas, ticks, mites, hookworms, tapeworms, roundworms, and heartworms that can live in their hearts.[39]
+      </p>
+      <br>
+
+      <h2> Table </h2>
+      <table class="table-auto">
+        <caption>
+          Table with dogs
+        </caption>
+        <thead>
+          <tr>
+            <th scope="col">Breed</th>
+            <th scope="col">Weight</th>
+            <th scope="col">Color</th>
+            <th scope="col">Food</th>
+            <th scope="col">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">German shepherd</th>
+            <td>40</td>
+            <td>Brown</td>
+            <td>Raw beef with cooked rice and vegetables.</td>
+            <td>Known for loyalty, intelligence, and versatility in work. Renowned for its loyalty, intelligence, and versatility in various tasks and roles.</td>
+          </tr>
+          <tr>
+            <th scope="row">Golder retriver</th>
+            <td>28</td>
+            <td>Yellow</td>
+            <td>High-quality dry kibble with added protein and vegetables.</td>
+            <td>Friendly, patient, and excellent family companions. Friendly, patient, intelligent, and beloved for their gentle nature and loyalty to families.</td>
+          </tr>
+          <tr>
+            <th scope="row">York</th>
+            <td>10</td>
+            <td>White</td>
+            <td>Chicken and rice.</td>
+            <td>Compact, energetic, with a lively personality. Compact, energetic, affectionate, and known for its spirited personality and elegant appearance.</td>
+          </tr>
+          <tr>
+            <th scope="row">Samoyed</th>
+            <td>28</td>
+            <td>White</td>
+            <td>Salmon and sweet potato stew with a side of mixed greens.</td>
+            <td>Majestic, friendly, with a fluffy white coat. Majestic, sociable, gentle yet strong, with a distinctive fluffy white coat and friendly demeanor.</td>
+          </tr>
+        </tbody>
+      </table>
+    
+
+      <br>
+      <h2> 3. List </h2>
+      
+      <ol class="list-decimal list-inside">
+        <li value="1">Dog1</li>
+        <li>Dog2</li>
+        <li>Dog3</li>
+      </ol>
+      <br>
+
+      <h2> 5. picture </h2>
+      <img
+      src="im1.jpeg"
+      alt="dog1" />
+      <br>
+      
+      <h2> 6. Form </h2>
+      <form method="post">
+        <label>
+          Name:
+          <input name="submitted-name" autocomplete="name" class="p-2"/>
+        </label>
+        
+        <legend>Do you agree to the terms?</legend>
+        <label><input type="radio" name="radio" value="yes" /> Yes</label>
+        <label><input type="radio" name="radio" value="no" /> No</label>
+
+        <br>
+        
+        <select name="pets" id="pet-select" class="p-2">
+          <option value="">--Please choose an option--</option>
+          <option value="dog">Dog</option>
+          <option value="cat">Cat</option>
+          <option value="hamster">Hamster</option>
+          <option value="parrot">Parrot</option>
+          <option value="spider">Spider</option>
+          <option value="goldfish">Goldfish</option>
+        </select>
+        <br><br>
+        <button>
+          Przycisk
+        </button>
+      </form>
+      
+      <br><br>
+      <h2> 7. </h2>
+      <details class="p-2">
+        <summary class="bg-white">More info</summary>
+        Info about dogs
+      </details>
+
+      <br>
+      <h2> 8. </h2>
+        <label>
+          Uploading Document: <progress value="70" max="100">70 %</progress>
+        </label>
+      <br><br>
+
+      </article>
+    </div>
+
+    <footer class="bg-green1">
+      <p>Author: Bogna Pawlus<br>
+      <a href="mailto:bogna.pawlus@gmail.com">bogna.pawlus@gmail.com</a></p>
+    </footer>
+
+  </body>
+</html>

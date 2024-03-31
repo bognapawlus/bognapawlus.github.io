@@ -1,0 +1,46 @@
+@tailwind base;
+@layer base {
+  h1 {
+    @apply font-extrabold text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  h3 {
+    @apply text-lg;
+  }
+  a {
+    @apply text-red-600 underline;
+  }
+  body {
+    @apply text-center;
+  }
+  table {
+    @apply mx-auto
+  }
+  td {
+    @apply border border-black font-mono;
+  }
+  th {
+    @apply border border-black font-bold;
+  }
+  img {
+    @apply mx-auto rounded-3xl;
+  }
+  button {
+    @apply py-2 px-4 bg-green-500 text-white rounded-lg shadow-lg hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-areas:
+      "header header header header header header header header header header"
+      "side-menu side-menu main-content main-content main-content main-content main-content main-content main-content main-content"
+      "footer footer footer footer footer footer footer footer footer footer";
+    grid-gap: 10px;
+  }
+};
+@tailwind components;
+@tailwind utilities;
+
+
+
